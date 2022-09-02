@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.270b0250.css",
-    "main.js": "/static/js/main.27178acd.js",
-    "static/js/787.f15763ba.chunk.js": "/static/js/787.f15763ba.chunk.js",
-    "static/media/loginBack.jpg": "/static/media/loginBack.cdffbe58fec1abf01c3a.jpg",
-    "index.html": "/index.html",
-    "main.270b0250.css.map": "/static/css/main.270b0250.css.map",
-    "main.27178acd.js.map": "/static/js/main.27178acd.js.map",
-    "787.f15763ba.chunk.js.map": "/static/js/787.f15763ba.chunk.js.map"
+    "main.css": "/MySchedule/static/css/main.c08c664f.css",
+    "main.js": "/MySchedule/static/js/main.be9230ab.js",
+    "static/js/787.f15763ba.chunk.js": "/MySchedule/static/js/787.f15763ba.chunk.js",
+    "static/media/loginBack.jpg": "/MySchedule/static/media/loginBack.cdffbe58fec1abf01c3a.jpg",
+    "index.html": "/MySchedule/index.html",
+    "main.c08c664f.css.map": "/MySchedule/static/css/main.c08c664f.css.map",
+    "main.be9230ab.js.map": "/MySchedule/static/js/main.be9230ab.js.map",
+    "787.f15763ba.chunk.js.map": "/MySchedule/static/js/787.f15763ba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.270b0250.css",
-    "static/js/main.27178acd.js"
+    "static/css/main.c08c664f.css",
+    "static/js/main.be9230ab.js"
   ]
 }
