@@ -30,7 +30,7 @@ function submission() {
         else{
           if(window.confirm("Registered Successfully! ")==true){
             // console.log("HOgaya");
-            window.location.href="../";
+            window.location.href="https://samarthpandya.github.io/MySchedule/";
           }
         }
       })
