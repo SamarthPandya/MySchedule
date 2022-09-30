@@ -10,23 +10,23 @@
   </head>
   <body>
     <div class="login-wrapper">
-      <form action="" class="form">
+      <form autocomplete="off" action="" class="form">
         <img src="/public/logo.jpg" alt="">
         
         <h2>Sign Up</h2>
         
         <div class="input-grp">
-          <input type="text" name="Username"  required="true">
+          <input type="text" name="Username"  required="true" onfocus="this.removeAttribute('readonly');" readonly>
           <label for="Username">Username</label>
         </div>
         
         <div class="input-grp">
-          <input type="password" name="Password"  required="true">
+          <input role="presentation" autocomplete="off" type="password" name="Password"  required="true">
           <label for="Password">Password</label>
         </div>
         
         <div class="input-grp">
-          <input type="password" name="CNFPassword"  required="true">
+          <input role="presentation" autocomplete="off" type="password" name="CNFPassword"  required="true">
           <label for="CNFPassword">Confirm Password</label>
         </div>
         
